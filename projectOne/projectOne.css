@@ -30,21 +30,21 @@
 .shape2 {
   float: left;
   border-top-right-radius: 300px;
-  background-color: red;
+  background-color: #B20000;
   clear: right;
 }
 
 .shape3 {
   float: left;
   border-bottom-left-radius: 300px;
-  background-color: yellow;
+  background-color: #FFFF00;
   clear: left;
 }
 
 .shape4 {
   float: left;
   border-bottom-right-radius: 300px;
-  background-color: blue;
+  background-color: #2D2D99;
 }
 
 .circle {

@@ -46,7 +46,7 @@ if(painted[canvasNumber-1] == false) {
     squaresFilled++;
     checkForWinners(content[canvasNumber-1]);
     if(squaresFilled == 9) {
-        alert("Game Over!");
+        alert("You've tied!");
         location.reload(true);
                 }
         }
